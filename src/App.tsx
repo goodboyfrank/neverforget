@@ -7,7 +7,6 @@ import './App.css';
 function App() {
   const [count, setCount] = useState(0);
   const handleClick = (str: string) => {
-    console.log(str);
   };
   return (
     <Router>
