@@ -18,8 +18,8 @@ export default function Home() {
   </MenuButton>
   <MenuList>
     <MenuItem>Download</MenuItem>
-    <MenuItem>Create a Copy</MenuItem>
-    <MenuItem>Mark</MenuItem>
+    <MenuItem>Create</MenuItem>
+    <MenuItem>Mark haha</MenuItem>
     <MenuItem>Delete</MenuItem>
     <MenuItem>Attend</MenuItem>
   </MenuList>
