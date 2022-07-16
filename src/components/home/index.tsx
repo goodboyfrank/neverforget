@@ -21,7 +21,7 @@ export default function Home() {
     <MenuItem>Create a Copy</MenuItem>
     <MenuItem>Mark</MenuItem>
     <MenuItem>Delete</MenuItem>
-    <MenuItem>Attend a Workshop</MenuItem>
+    <MenuItem>Attend</MenuItem>
   </MenuList>
 </Menu>
 }
